@@ -1,2 +1,3 @@
 # Raumschach-in-terminal
-//Made with Textual, Link: https://github.com/Textualize/textual
+A terrible chess game made in terminal/n
+never going to be fixed or updated
